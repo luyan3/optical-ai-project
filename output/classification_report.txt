@@ -1,15 +1,15 @@
-                                      precision    recall  f1-score   support
+Training completed: 18/20 epochs (terminated early)\nBest Validation Accuracy: 99.22%\nFinal Test Accuracy: 89.00%\n\n                                      precision    recall  f1-score   support
 
-                             adipose     0.9147    0.7212    0.8065      1338
-                          background     0.9349    1.0000    0.9663       847
-                              debris     0.7541    0.8230    0.7870       339
-                         lymphocytes     0.9820    0.9479    0.9647       634
-                               mucus     0.9085    0.8348    0.8701      1035
-                       smooth muscle     0.4714    0.8632    0.6098       592
-                 normal colon mucosa     0.9499    0.9460    0.9479       741
-            cancer-associated stroma     0.8882    0.3207    0.4712       421
-colorectal adenocarcinoma epithelium     0.9032    0.9611    0.9312      1233
+                             adipose     0.9006    0.8401    0.8693      1338
+                          background     0.9560    1.0000    0.9775       847
+                              debris     0.7770    0.9558    0.8571       339
+                         lymphocytes     0.9334    0.9953    0.9634       634
+                               mucus     0.9676    0.8937    0.9292      1035
+                       smooth muscle     0.6216    0.8159    0.7056       592
+                 normal colon mucosa     0.9379    0.9379    0.9379       741
+            cancer-associated stroma     0.9554    0.4584    0.6196       421
+colorectal adenocarcinoma epithelium     0.9146    0.9473    0.9307      1233
 
-                            accuracy                         0.8479      7180
-                           macro avg     0.8563    0.8242    0.8172      7180
-                        weighted avg     0.8781    0.8479    0.8477      7180
+                            accuracy                         0.8900      7180
+                           macro avg     0.8849    0.8716    0.8656      7180
+                        weighted avg     0.9003    0.8900    0.8879      7180
